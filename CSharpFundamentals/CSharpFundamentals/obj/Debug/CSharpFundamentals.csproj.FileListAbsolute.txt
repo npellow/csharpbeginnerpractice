@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
