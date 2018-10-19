@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\bin\Debug\SectionFourStrings.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\bin\Debug\SectionFourStrings.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\bin\Debug\SectionFourStrings.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\obj\Debug\SectionFourStrings.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\obj\Debug\SectionFourStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\obj\Debug\SectionFourStrings.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourStrings\SectionFourStrings\obj\Debug\SectionFourStrings.pdb
