@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\bin\Debug\Section4Arrays.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\bin\Debug\Section4Arrays.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\bin\Debug\Section4Arrays.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\obj\Debug\Section4Arrays.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\obj\Debug\Section4Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\obj\Debug\Section4Arrays.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section4Arrays\Section4Arrays\obj\Debug\Section4Arrays.pdb
