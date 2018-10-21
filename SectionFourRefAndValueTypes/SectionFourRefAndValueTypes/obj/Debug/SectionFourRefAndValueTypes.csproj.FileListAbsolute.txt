@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\bin\Debug\SectionFourRefAndValueTypes.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\bin\Debug\SectionFourRefAndValueTypes.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\bin\Debug\SectionFourRefAndValueTypes.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\obj\Debug\SectionFourRefAndValueTypes.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\obj\Debug\SectionFourRefAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\obj\Debug\SectionFourRefAndValueTypes.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourRefAndValueTypes\SectionFourRefAndValueTypes\obj\Debug\SectionFourRefAndValueTypes.pdb
