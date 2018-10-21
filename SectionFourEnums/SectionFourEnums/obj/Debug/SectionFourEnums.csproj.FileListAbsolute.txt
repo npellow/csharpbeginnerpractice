@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\bin\Debug\SectionFourEnums.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\bin\Debug\SectionFourEnums.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\bin\Debug\SectionFourEnums.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\obj\Debug\SectionFourEnums.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\obj\Debug\SectionFourEnums.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\obj\Debug\SectionFourEnums.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\SectionFourEnums\SectionFourEnums\obj\Debug\SectionFourEnums.pdb
