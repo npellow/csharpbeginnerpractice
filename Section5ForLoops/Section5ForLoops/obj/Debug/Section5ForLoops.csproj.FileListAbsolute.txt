@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\bin\Debug\Section5ForLoops.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\bin\Debug\Section5ForLoops.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\bin\Debug\Section5ForLoops.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\obj\Debug\Section5ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\obj\Debug\Section5ForLoops.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5ForLoops\Section5ForLoops\obj\Debug\Section5ForLoops.pdb
