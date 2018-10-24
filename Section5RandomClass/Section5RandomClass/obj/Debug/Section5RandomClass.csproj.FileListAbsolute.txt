@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\bin\Debug\Section5RandomClass.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\bin\Debug\Section5RandomClass.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\bin\Debug\Section5RandomClass.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\obj\Debug\Section5RandomClass.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\obj\Debug\Section5RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\obj\Debug\Section5RandomClass.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section5RandomClass\Section5RandomClass\obj\Debug\Section5RandomClass.pdb
