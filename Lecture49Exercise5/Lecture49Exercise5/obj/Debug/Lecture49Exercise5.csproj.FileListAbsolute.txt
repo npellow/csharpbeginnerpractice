@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\bin\Debug\Lecture49Exercise5.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\bin\Debug\Lecture49Exercise5.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\bin\Debug\Lecture49Exercise5.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\obj\Debug\Lecture49Exercise5.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\obj\Debug\Lecture49Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\obj\Debug\Lecture49Exercise5.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture49Exercise5\Lecture49Exercise5\obj\Debug\Lecture49Exercise5.pdb
