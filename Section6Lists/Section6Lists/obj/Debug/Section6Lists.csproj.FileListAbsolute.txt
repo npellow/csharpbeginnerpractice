@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\bin\Debug\Section6Lists.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\bin\Debug\Section6Lists.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\bin\Debug\Section6Lists.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\obj\Debug\Section6Lists.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\obj\Debug\Section6Lists.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\obj\Debug\Section6Lists.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Section6Lists\Section6Lists\obj\Debug\Section6Lists.pdb
