@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\bin\Debug\Lecture60TimeSpan.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\bin\Debug\Lecture60TimeSpan.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\bin\Debug\Lecture60TimeSpan.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\obj\Debug\Lecture60TimeSpan.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\obj\Debug\Lecture60TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\obj\Debug\Lecture60TimeSpan.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture60TimeSpan\Lecture60TimeSpan\obj\Debug\Lecture60TimeSpan.pdb
