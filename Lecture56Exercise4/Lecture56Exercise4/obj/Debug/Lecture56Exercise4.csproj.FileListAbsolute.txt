@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\bin\Debug\Lecture56Exercise4.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\bin\Debug\Lecture56Exercise4.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\bin\Debug\Lecture56Exercise4.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\obj\Debug\Lecture56Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\obj\Debug\Lecture56Exercise4.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture56Exercise4\Lecture56Exercise4\obj\Debug\Lecture56Exercise4.pdb
