@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\bin\Debug\Lecture64Strings.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\bin\Debug\Lecture64Strings.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\bin\Debug\Lecture64Strings.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\obj\Debug\Lecture64Strings.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\obj\Debug\Lecture64Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\obj\Debug\Lecture64Strings.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture64Strings\Lecture64Strings\obj\Debug\Lecture64Strings.pdb
