@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\bin\Debug\Lecture65SummarisingText.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\bin\Debug\Lecture65SummarisingText.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\bin\Debug\Lecture65SummarisingText.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\obj\Debug\Lecture65SummarisingText.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\obj\Debug\Lecture65SummarisingText.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\obj\Debug\Lecture65SummarisingText.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture65SummarisingText\Lecture65SummarisingText\obj\Debug\Lecture65SummarisingText.pdb
