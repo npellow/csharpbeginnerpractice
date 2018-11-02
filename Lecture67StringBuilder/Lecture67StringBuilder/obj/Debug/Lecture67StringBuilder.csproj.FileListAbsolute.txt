@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\bin\Debug\Lecture67StringBuilder.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\bin\Debug\Lecture67StringBuilder.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\bin\Debug\Lecture67StringBuilder.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\obj\Debug\Lecture67StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\obj\Debug\Lecture67StringBuilder.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture67StringBuilder\Lecture67StringBuilder\obj\Debug\Lecture67StringBuilder.pdb
