@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\bin\Debug\Lecture74DirectoryDirectoryInfo.exe.config
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\bin\Debug\Lecture74DirectoryDirectoryInfo.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\bin\Debug\Lecture74DirectoryDirectoryInfo.pdb
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\obj\Debug\Lecture74DirectoryDirectoryInfo.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\obj\Debug\Lecture74DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\obj\Debug\Lecture74DirectoryDirectoryInfo.exe
+C:\Users\User\Documents\C#withMosh\C#BasicsCourse\Lecture74DirectoryDirectoryInfo\Lecture74DirectoryDirectoryInfo\obj\Debug\Lecture74DirectoryDirectoryInfo.pdb
